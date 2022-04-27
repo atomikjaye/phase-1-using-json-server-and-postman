@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Fourth Article",
+      "content": "Another exampleeeee!",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "username": "atomikjaye",
+      "comment": "JSON Rules",
+      "images": [
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Findspireme.in%2Fwp-content%2Fuploads%2F2017%2F04%2Ffern_foster_kittens_rva.jpg%3Ffit%3D1080%252C1080%26ssl%3D1&f=1&nofb=1",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.vks87Ar59lEU8BZhKXGg1wHaLH%26pid%3DApi&f=1"
+      ]
+    },
+    {
+      "username": "Grand Master Flex",
+      "comment": "JSON is difficult?",
+      "images": [
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Axd5daTJPoGfhi8sfqGvJwHaFj%26pid%3DApi&f=1",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.EVSkGjXyzz2N1P_k_5eeHQHaFQ%26pid%3DApi&f=1"
+      ],
+      "id": 2
+    }
+  ]
+}
